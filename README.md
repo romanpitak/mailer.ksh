@@ -2,6 +2,8 @@
 
 This is a mailer script. 
 
+(c) 2011-2014 [Roman Piták](http://pitak.net) roman@pitak.net
+
 ## OPTIONS
 
     -h|--help                     : prints this message
